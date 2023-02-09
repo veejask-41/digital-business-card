@@ -6,7 +6,7 @@ import {faEnvelope} from "@fortawesome/free-solid-svg-icons";
 export default function Info() {
     return (
         <div className="info-div">
-            <img src="./src/assets/my-image.jpeg" alt="my image" />
+            <img src="/public/my-image.jpeg" alt="my image" />
             <h2>Sajeev Kugarajah</h2>
             <p className="description">CSE Undergraduate</p>
             <p className="small-text">University of Moratuwa</p>
